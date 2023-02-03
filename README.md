@@ -4,3 +4,8 @@ I found this article particularly interesting because even large tech CEOs like 
 
 ### Authors
 Rami Richani (rir8190@nyu.edu)
+
+### Comments
+I think, if anything, this episode illustrates that tech companies aren't all-powerful or invulnerable after all. While they certainly continue to wield outsized influence in our social discourse and habits, they are coming under increasing scrutiny and criticism from the general public. Musk, having been one of those critics, now finds himself on the receiving end of complaints about what Twitter does. Regardless of whether you support Musk's ideas and endeavors with regards to the social media platform, I think it's safe to say Twitter isn't doing too well and probably won't be well for a while. There may be a silver lining to this story, however; we've been able to see quite a bit of how Twitter works internally because of what Musk has done (for better or worse). Perhaps the next Twitter CEO or other aspiring social media platforms can learn from what hasn't worked for Twitter and find a way to better balance user demands with all of the upkeep needed for such companies.
+<br>
+--Allen Li
